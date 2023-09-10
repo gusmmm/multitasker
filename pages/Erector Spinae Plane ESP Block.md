@@ -1,5 +1,5 @@
-channel:: [[Regional Anesthesiology and Acute Pain Medicine youtube channel]] 
-tags:: [[erector spinae plane block]]
+channel:: [[Youtube-channel/Regional Anesthesiology and Acute Pain Medicine]] 
+tags:: [[RA/trunk/dorsal/erector spinae plane block]]
 
 - {{video https://www.youtube.com/watch?v=O9RB0K7f8pM}}
 - ![image.png](../assets/image_1694085837851_0.png)
